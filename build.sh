@@ -1,3 +1,3 @@
 #!/bin/bash
 sudo apt install git
-echo "Script Executing" 
+echo "Script Executing v2" 
